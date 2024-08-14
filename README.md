@@ -1,0 +1,1 @@
+My problem is that the carpenter isnt carpenting. The request from the buidler gets sent the courier, but the carpenter doesnt create anything. (nothing is in tasks either.) the courier also doesnt deliver the needed materials to the carpenter. i had to do it myself.
